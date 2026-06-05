@@ -103,17 +103,17 @@ Streamlit Dashboard
 
 ## Dashboard Preview
 
-## Dashboard Overview
+### Store Intelligence Dashboard
 
-![Dashboard Overview](screenshots/dashboard1.png)
+![Store Intelligence Dashboard](screenshots/dashboard2.png)
 
-## Dwell Time Analytics
+### Dwell Time Analytics
 
-![Dwell Time Analytics](screenshots/dashboard2.png)
+![Dwell Time Analytics](screenshots/dashboard3.png)
 
-## Zone Transition Analytics
+### Zone Transition Analytics
 
-![Zone Transition Analytics](screenshots/dashboard3.png)
+![Zone Transition Analytics](screenshots/dashboard1.png)
 
 ## Future Enhancements
 
