@@ -63,6 +63,59 @@ The system processes video feeds from multiple cameras, detects and tracks custo
 - Python
 - Pandas
 
+## Installation and Setup
+
+### Clone Repository
+
+```bash
+git clone https://github.com/gurugubelliharish/store-intelligence.git
+cd store-intelligence
+```
+
+### Create Virtual Environment
+
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+### Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Run FastAPI Backend
+
+```bash
+uvicorn backend.api.main:app --reload
+```
+
+Backend URL:
+
+```
+http://127.0.0.1:8000
+```
+
+### Run Streamlit Dashboard
+
+```bash
+streamlit run dashboard/app.py
+```
+
+Dashboard URL:
+
+```
+http://localhost:8501
+```
+
+### Run Detection Pipeline
+
+```bash
+python backend/run_pipeline.py
+```
+
+
 ---
 
 ## Project Architecture
