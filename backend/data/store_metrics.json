@@ -1,0 +1,18 @@
+{
+    "store_id": "STORE_BLR_002",
+    "total_entries": 3,
+    "total_exits": 3,
+    "peak_occupancy": 1,
+    "final_occupancy": 0,
+    "avg_dwell_time": {
+        "left": 2.29,
+        "center": 2.24,
+        "right": 2.98
+    },
+    "zone_transitions": {
+        "CENTER_TO_RIGHT": 6,
+        "LEFT_TO_CENTER": 5,
+        "RIGHT_TO_CENTER": 4,
+        "CENTER_TO_LEFT": 3
+    }
+}

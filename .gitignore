@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+runs/
+*.log
+yolov8n.pt
+data/raw_videos/
